@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spring Security JWT Role-based Authorization**
 
-- 🌱 I’m currently learning **Fullstac Performance Engineering**
+- 🌱 I’m currently learning **Fullstack Performance Engineering**
 
 - 🤝 I’m looking for help with **Fullstack development and SRE**
 
